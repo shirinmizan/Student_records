@@ -1,5 +1,5 @@
 # Student_records
--- Student_records is a application form for students to input their information.<br>
+-- Student_records is an application form for students to input their information.<br>
 -- This Application is built on Spring framework. 
 <h3>Add the following dependencies to Maven first</h3>
 --Spring-beans<br>
@@ -96,7 +96,7 @@ public class HomeController {
 	</bean>
 </beans>
 ```
-<h3>Input JSP is a form for students to input their information</h3>
+<h3>Input JSP for students to input their information</h3>
 ```JSP
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
     pageEncoding="ISO-8859-1"%>
