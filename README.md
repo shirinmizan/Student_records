@@ -8,7 +8,7 @@
 --Spring-web<br>
 --Spring-webmvc<br>
 
-<h3>Student class</h3>
+<h3>Student entity</h3>
 ```Java
 public class Student {
 	private int id;
