@@ -1,5 +1,5 @@
-# Student_records
--- Student_records is an application form for students to input their information.<br>
+# THEIA
+-- Theia is an smart application form for students to input their information.<br>
 -- This Application is built on Spring framework. 
 <h3>Add the following dependencies to Maven first</h3>
 --Spring-beans<br>
